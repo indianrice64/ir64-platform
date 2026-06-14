@@ -1,0 +1,57 @@
+# IR64 Global Rice Exporter
+# Chennai, Tamil Nadu, India
+# APEDA Registered | SGS Certified | Export Since 2007
+
+## About
+IR64 is an India-based exporter of non-basmati rice, operating from Chennai, Tamil Nadu.
+We export IR64 Rice, Broken Rice, Long Grain Rice, Sona Masoori, Pooni Rice, and Idly Rice
+to Africa, the Middle East, and Southeast Asia.
+
+## Products (15 SKUs)
+- IR64 Raw Rice 5% Broken        (SKU: IR64-RAW-05)
+- IR64 Raw Rice 25% Broken       (SKU: IR64-RAW-25)
+- IR64 Parboiled Rice 5% Broken  (SKU: IR64-PB-05)
+- IR64 Double Parboiled 5%       (SKU: IR64-DPB-05)
+- IR64 Broken Rice D2            (SKU: IR64-D2)
+- 100% Broken Rice               (SKU: BRK-100)
+- Long Grain White Rice          (SKU: LG-WHITE)
+- Long Grain Sella Rice          (SKU: LG-SELLA)
+- Long Grain Golden Sella Rice   (SKU: LG-GSELLA)
+- Sona Masoori Steam Rice        (SKU: SM-STEAM)
+- Sona Masoori Parboiled Rice    (SKU: SM-PB)
+- Pooni Raw Rice                 (SKU: PN-RAW)
+- Pooni Steam Rice               (SKU: PN-STEAM)
+- Pooni Parboiled Rice           (SKU: PN-PB)
+- Idly Rice                      (SKU: IDLY-001)
+
+## Certifications
+- APEDA (Agricultural & Processed Food Products Export Development Authority)
+- IEC (Import Export Code, DGFT India)
+- FSSAI (Food Safety and Standards Authority of India)
+- SGS (Pre-shipment quality inspection)
+- ISO 9001:2015
+
+## Export Markets
+Nigeria, Ghana, Benin, Senegal, Morocco, Kenya,
+United Arab Emirates, Saudi Arabia, Bangladesh, Philippines, Malaysia
+
+## Incoterms
+FOB Chennai, CFR Destination, CIF Destination
+
+## Minimum Order
+25 Metric Tonnes (approximately one 20-foot container)
+
+## Machine-Readable Endpoints
+Products:        https://ir64.com/api/geo/products
+Company:         https://ir64.com/api/geo/company
+FAQs:            https://ir64.com/api/geo/faqs
+Countries:       https://ir64.com/api/geo/countries
+Certifications:  https://ir64.com/api/geo/certifications
+
+## Knowledge Base
+https://ir64.com/knowledge-base
+
+## Contact
+Website:   https://ir64.com
+RFQ:       https://ir64.com/rfq
+Catalogue: https://ir64.com/catalogue
